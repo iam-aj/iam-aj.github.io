@@ -1,2 +1,2 @@
 # iam-aj.github.io  
-![](qubit.jpj)
+![](qubit.jpeg)
