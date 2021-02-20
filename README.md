@@ -1,1 +1,2 @@
-# iam-aj.github.io
+# iam-aj.github.io  
+![](qubit.jpj)
